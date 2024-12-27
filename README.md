@@ -56,7 +56,18 @@ mpr-viewer/
 ```
 
 ## Screenshots
-Include screenshots of the application (e.g., main interface, image views).
+- **Slider for each view to choose which photo to be shown**
+![Alt text](1.jpg)
+- **You can adjust brightness and contrast for each view**
+![Alt text](2.jpg)
+- **Play and pause cine**
+![Alt text](3.jpg)
+- **Accepts both NIFTI and DICOM files**
+![Alt text](4.jpg)
+- **Crosshair feature to indicate the selected point in the other views**
+![Alt text](5.jpg)
+
+
 
 ## Future Improvements
 - 3D volume rendering support.
