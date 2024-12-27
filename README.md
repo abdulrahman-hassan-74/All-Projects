@@ -57,15 +57,15 @@ mpr-viewer/
 
 ## Screenshots
 - **Slider for each view to choose which photo to be shown**
-![Alt text](1.jpg)
+![Alt text](images/1.jpg)
 - **You can adjust brightness and contrast for each view**
-![Alt text](2.jpg)
+![Alt text](images/2.jpg)
 - **Play and pause cine**
-![Alt text](3.jpg)
+![Alt text](images/3.jpg)
 - **Accepts both NIFTI and DICOM files**
-![Alt text](4.jpg)
+![Alt text](images/4.jpg)
 - **Crosshair feature to indicate the selected point in the other views**
-![Alt text](5.jpg)
+![Alt text](images/5.jpg)
 
 
 
