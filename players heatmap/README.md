@@ -96,11 +96,17 @@ Ensure you have the following dependencies installed:
 
 ## Screenshots
 
-![Main Screen](https://via.placeholder.com/800x400.png?text=Main+Screen)
+
 *Main screen showing the video tracking interface.*
 
-![Heatmap](https://via.placeholder.com/800x400.png?text=Heatmap+Example)
+
+![Alt text](images/1.png)
+
+
 *Player movement heatmap.*
+
+
+![Alt text](images/2.png)
 
 ---
 
