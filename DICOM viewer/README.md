@@ -77,15 +77,11 @@ pip install PyQt5 pydicom matplotlib faker
 ## Screenshots
 
 1. **Main Interface**  
-   _[Insert screenshot showing main GUI]_
+   ![Alt text](images/1.png)
 
-2. **Thumbnail View**  
-   _[Insert screenshot showing thumbnails grid]_
+2. **Metadata Exploration**  
+   ![Alt text](images/2.png)
 
-3. **Metadata Exploration**  
-   _[Insert screenshot of metadata exploration dialog]_
-
-_Replace the placeholders with actual paths to your screenshots._
 
 ## Customization
 
