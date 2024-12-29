@@ -75,13 +75,13 @@ Before running the application, ensure you have the following dependencies insta
 
 ## Screenshots
 
-![Alt text](images/1.jpg)
+![Alt text](images/1.png)
 
-![Alt text](images/2.jpg)
+![Alt text](images/2.png)
 
-![Alt text](images/3.jpg)
+![Alt text](images/3.png)
 
-![Alt text](images/4.jpg)
+![Alt text](images/4.png)
 
 
 ## Customization
