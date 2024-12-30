@@ -87,20 +87,16 @@ pip install PyQt5 opencv-python matplotlib numpy
 
 ### Main Interface
 
-![Main Interface Screenshot](assets/main_interface.png)
+![Alt text](images/1.png)
 
 ### Image Enhancement Example
 
-![Image Enhancement Screenshot](assets/image_enhancement.png)
+![Alt text](images/2.png)
 
 ### Histogram Analysis
 
-![Histogram Screenshot](assets/histogram_analysis.png)
+![Alt text](images/3.png)
 
-## Customization
-
-- Add new filters or enhancement methods by extending the respective functions in the `apply_processing` method.
-- Modify ROI functionality in the `ROISelector` class for custom behaviors.
 
 ## File Structure
 
