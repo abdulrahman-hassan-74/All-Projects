@@ -83,6 +83,20 @@ pip install PyQt5 opencv-python matplotlib numpy
 - Show histograms (`F8`).
 - Reset all settings to defaults (`F9`).
 
+## Screenshots
+
+### Main Interface
+
+![Main Interface Screenshot](assets/main_interface.png)
+
+### Image Enhancement Example
+
+![Image Enhancement Screenshot](assets/image_enhancement.png)
+
+### Histogram Analysis
+
+![Histogram Screenshot](assets/histogram_analysis.png)
+
 ## Customization
 
 - Add new filters or enhancement methods by extending the respective functions in the `apply_processing` method.
@@ -93,6 +107,7 @@ pip install PyQt5 opencv-python matplotlib numpy
 ```plaintext
 .
 ├── PhotoQuality.py        # Main application code
+├── assets/                # Directory for storing screenshots
 ```
 
 ## License
