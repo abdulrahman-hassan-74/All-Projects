@@ -57,3 +57,8 @@ Re-engineering MRI to leverage Earth's magnetic field offers a transformative op
 1. Espy, M., Matlashov, A., & Volegov, P. (2013). "SQUID-detected ultra-low field MRI," *Journal of Magnetic Resonance*. [DOI: 10.1016/j.jmr.2013.02.009](https://doi.org/10.1016/j.jmr.2013.02.009)
 2. Scheuer, J., et al. (2016). "Optically induced dynamic nuclear spin polarisation in diamond," *New Journal of Physics*. [DOI: 10.1088/1367-2630/18/1/013040](https://doi.org/10.1088/1367-2630/18/1/013040)
 3. Dewey, M., Schink, T., & Dewey, C. F. (2007). "Claustrophobia during magnetic resonance imaging: Cohort study in over 55,000 patients," *Journal of Magnetic Resonance Imaging*. [DOI: 10.1002/jmri.21147](https://doi.org/10.1002/jmri.21147)
+
+### Video Demonstration
+
+<iframe src="https://drive.google.com/uc?export=preview&id=F1tdihqsDkssn6hYG8RwaBkivS8BYub3Zf" width="640" height="480" allow="autoplay"></iframe>
+
