@@ -1,6 +1,6 @@
-# Assembly-CSharp Project
+# 3D Puzzle Game
 
-This repository contains the `Assembly-CSharp` project configuration for a Unity-based 3D puzzle game. The game challenges players to assemble a 3D model of a lung, promoting both fun and educational engagement.
+This repository contains the project configuration for a Unity-based 3D puzzle game. The game challenges players to assemble a 3D model of a lung, promoting both fun and educational engagement.
 
 ## Features
 
