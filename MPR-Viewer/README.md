@@ -78,5 +78,3 @@ mpr-viewer/
 - **ITK-Snap** for inspiring the UI and functionality.
 - Built with `SimpleITK`, `Matplotlib`, and `Tkinter`.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
