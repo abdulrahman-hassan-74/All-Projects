@@ -48,7 +48,7 @@ By assuming that **P** does not depend on **B**, it becomes possible to utilize 
 
 ## Video Demonstration
 
-[Watch the video demonstration on Google Drive](https://drive.google.com/file/d/1tdihqsDkssn6hYG8RwaBkivS8BYub3Zf/view?usp=sharing)
+https://github.com/user-attachments/assets/94587232-b1b2-444b-9cd2-72ac0d99527d
 
 ---
 
